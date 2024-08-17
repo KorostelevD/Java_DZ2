@@ -1,7 +1,7 @@
 package Dz2;
 import java.util.Scanner;
 
-public class First {
+public class Convector {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Створення об'єкта Scanner для введення даних з консолі
         String yn; // Змінна для зберігання відповіді користувача
